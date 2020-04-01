@@ -29,3 +29,7 @@
 そのため、あくまで個人ないし法人事業者の方が自身で運営するサイトに、
 支援を募るための決済手段を公開する仕組みを作る手助けを無償にて行います。
 
+## その他民間支援サービス紹介
+
+* [Ticketime](https://forbesjapan.com/articles/detail/32744)
+* [Spotify](https://amp.review/2020/03/26/spotify/)
